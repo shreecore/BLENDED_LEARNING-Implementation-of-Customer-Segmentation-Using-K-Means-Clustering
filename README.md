@@ -113,8 +113,9 @@ plt.show()
 ```
 
 ## Output:
-<img width="1002" height="811" alt="exp09(1)" src="https://github.com/user-attachments/assets/78e11a77-16ac-46ed-bb08-e63e06111dde" />
-<img width="1133" height="667" alt="exp09(2)" src="https://github.com/user-attachments/assets/a33398b8-9b6b-4ad7-ba1e-fbefd8bccaca" />
+<img width="1250" height="232" alt="image" src="https://github.com/user-attachments/assets/44071f94-7234-47db-aefb-911140271ce4" />
+<img width="1222" height="652" alt="image" src="https://github.com/user-attachments/assets/897ceee7-f4ed-4503-a187-2e021de04e3f" />
+<img width="1243" height="736" alt="image" src="https://github.com/user-attachments/assets/7e23dc93-ef46-4e8f-b8c5-4ac7b483beab" />
 
 
 ## Result:
